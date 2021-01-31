@@ -4,6 +4,7 @@ pandas
 scikit-learn
 xfeat
 
+jedi<0.18.0
 jupyter
 matplotlib
 seaborn
